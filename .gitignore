@@ -1,0 +1,11 @@
+# Temp files
+.uploads/
+.screenshots/
+.trae-html-share-packages/
+*.zip
+capture/
+*.png
+
+# OS
+.DS_Store
+Thumbs.db
