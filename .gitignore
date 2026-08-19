@@ -4,7 +4,6 @@
 .trae-html-share-packages/
 *.zip
 capture/
-*.png
 
 # OS
 .DS_Store
