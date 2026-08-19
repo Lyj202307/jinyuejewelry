@@ -610,6 +610,7 @@ h4, h5 { font-family: var(--font-heading); font-weight: 600; line-height: 1.3; l
 /* --- Section header --- */
 .section-header { text-align: center; margin-bottom: 52px; }
 .section-header .eyebrow { justify-content: center; }
+.section-header .section-sub { margin-left: auto; margin-right: auto; }
 
 /* --- Why Choose Us --- */
 .about-values-section { padding: 100px 0; background: var(--bg); }
